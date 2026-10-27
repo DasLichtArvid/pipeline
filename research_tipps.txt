@@ -6,3 +6,7 @@ Paper finden:
 
 Dokumentattion von LLM-Nutzung:
 Tabelle im Anhang mit LLm und Einsatzzweck (warum genutzt, was kam raus)
+
+erster Schritt zur Pipeline:
+keywords nach denen gesucht werden soll festlegen, die mit programmers block in Verbindung stehen
+was zeigt hohe "Wichtigkeit" eines Videos (hohe Views? hohe Abonennten?)
