@@ -2,6 +2,7 @@ Paper finden:
 1. google scholar: unten in der mitte vom paper: "zitiert von"
 2. research rabbit AI
 3. claude / chatgpt fragen: spezifische verwandte paper (mit link zum nachschauen), thema beschreiben und fragen welche dazu relevant sind
+4. connectedpapers.com: ein paper angeben und bekommt graph für verwandte Arbeiten
 
 Dokumentattion von LLM-Nutzung:
 Tabelle im Anhang mit LLm und Einsatzzweck (warum genutzt, was kam raus)
